@@ -1,0 +1,8 @@
+{
+  "service.type": "jdbc",
+  "url": "jdbc:postgresql://localhost/store?characterEncoding=UTF-8&useSSL=false",
+  "driver_class": "org.postgresql.Driver",
+  "user": "postgres",
+  "password": "postgres",
+  "max_pool_size": 30
+}

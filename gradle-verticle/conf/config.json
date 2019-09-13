@@ -1,0 +1,39 @@
+{
+	"standardOpeningHours": [
+		{
+			"dayOfWeek": 1,
+			"openingTime": "08:30",
+			"closingTime": "18:30"
+		},
+		{
+			"dayOfWeek": 2,
+			"openingTime": "08:30",
+			"closingTime": "18:30"
+		},
+		{
+			"dayOfWeek": 3,
+			"openingTime": "08:30",
+			"closingTime": "18:30"
+		},
+		{
+			"dayOfWeek": 4,
+			"openingTime": "08:30",
+			"closingTime": "18:30"
+		},
+		{
+			"dayOfWeek": 5,
+			"openingTime": "08:30",
+			"closingTime": "18:30"
+		},
+		{
+			"dayOfWeek": 6,
+			"openingTime": "09:00",
+			"closingTime": "18:00"
+		},
+		{
+			"dayOfWeek": 7,
+			"openingTime": "00:00",
+			"closingTime": "00:00"
+		}
+	]
+}
